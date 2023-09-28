@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_28._09</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Student\Desktop\28.09\28.09GOTOVO.cs" Link="28.09GOTOVO.cs" />
+    <Compile Include="C:\Users\Student\Desktop\28.09\Program3.cs" Link="Program3.cs" />
+  </ItemGroup>
+
+</Project>
